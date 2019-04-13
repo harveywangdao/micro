@@ -6,7 +6,7 @@ import (
 	"io/ioutil"
 	"os"
 
-	"micro/service1/test"
+	"github.com/harveywangdao/micro/service1/test"
 )
 
 func write() {

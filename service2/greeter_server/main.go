@@ -26,8 +26,8 @@ import (
 	"log"
 	"net"
 
+	pb "github.com/harveywangdao/micro/service2/helloworld"
 	"google.golang.org/grpc"
-	pb "micro/service2/helloworld"
 )
 
 const (
